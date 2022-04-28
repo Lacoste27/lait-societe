@@ -1,0 +1,1 @@
+<img src="{{asset('img/logo.png')}}" width="200px" height="200px" alt="produit laitier">
